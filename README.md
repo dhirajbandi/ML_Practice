@@ -1,1 +1,3 @@
-# ML_Practice
+# ML_Practice \
+Name: Dhiraj Bandi \
+Machiene learning practice
