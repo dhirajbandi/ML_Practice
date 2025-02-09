@@ -6,16 +6,16 @@ This repository contains Jupyter notebooks covering various **Machine Learning (
 ## Notebooks
 
 ### 1. ML_Practice_1.ipynb
-- **Machine Learning ICP-1** Assignment.
-- Includes solutions for multiple ML-related questions.
+- **Machine Learning ICP-1**
+- Includes solutions for multiple python-related questions.
 
 ### 2. ML_Practice_2.ipynb
-- **Machine Learning ICP-2** Assignment.
-- Contains solutions for multiple questions focusing on ML tasks.
+- **Machine Learning ICP-2**
+- Contains solutions for multiple questions focusing on python tasks.
 
 ### 3. ML_Practice_3.ipynb
 - **ICP-3 Assignment**
-- Worked on specific tasks related to data**.
+- Worked on specific tasks related to python and data**.
 
 ### 4. ML_Practice_4.ipynb
 - **ML Assignment**
