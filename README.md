@@ -14,11 +14,11 @@ This repository contains Jupyter notebooks covering various **Machine Learning (
 - Contains solutions for multiple questions focusing on ML tasks.
 
 ### 3. ML_Practice_3.ipynb
-- **ICP-3 Assignment (Dhiraj Bandi, 700760856).**
-- Worked on specific tasks labeled **Question C and Question D**.
+- **ICP-3 Assignment**
+- Worked on specific tasks related to data**.
 
 ### 4. ML_Practice_4.ipynb
-- **ML Assignment (Dhiraj Bandi, 700760856).**
+- **ML Assignment**
 - Tasks covered:
   - Displaying **basic statistical descriptions** of the dataset.
   - Checking for **null values** in the dataset.
@@ -50,7 +50,6 @@ This repository contains Jupyter notebooks covering various **Machine Learning (
 ## Author
 **Dhiraj Bandi**  
 Email: dhirajbandi2000@gmail.com  
-GitHub: [your-github-profile]
 
 ---
 This repository contains ML practice tasks and is meant for educational purposes.
