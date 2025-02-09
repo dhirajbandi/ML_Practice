@@ -49,7 +49,7 @@ This repository contains Jupyter notebooks covering various **Machine Learning (
 
 ## Author
 **Dhiraj Bandi**  
-Email: dhirajbandi2000@gmail.com  
+Email: dhirajbandiwork@gmail.com  
 
 ---
 This repository contains ML practice tasks and is meant for educational purposes.
